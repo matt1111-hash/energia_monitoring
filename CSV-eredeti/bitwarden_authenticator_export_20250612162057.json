@@ -1,0 +1,1 @@
+{"encrypted":false,"items":[{"favorite":false,"id":"9062C099-E121-48EC-A2BD-AABAC5106DFC","login":{"totp":"otpauth://totp/Lambda:matuz.tibor%40gmail.com?secret=HARSGUCRHIRWSZSSGE4TS6CTEFME2O2L&issuer=Lambda&algorithm=SHA1&digits=6&period=30","username":"matuz.tibor@gmail.com"},"name":"Lambda","type":1}]}
